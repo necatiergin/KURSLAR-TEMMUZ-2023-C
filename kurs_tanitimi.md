@@ -22,7 +22,7 @@ Dersler __Cumartesi ve Pazar__ günleri  __14:00 – 18.00__ saatleri arasında 
 &#128279;[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)
 
 ## Eğitmen
-Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programcıları Derneği__’nde eğitmen olarak görev yapmaktadır. Necati Ergin [C++ Türkiye Topluluğunun](https://t.me/trcpp) kurucusudur. __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren __Necati Ergin__, 100’ün üstünde şirket ve kuruma __C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları__ konularında eğitim vermiştir. 
+Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programcıları Derneği__’nde eğitmen olarak görev yapmaktadır. Necati Ergin [C++ Türkiye Topluluğunun](https://t.me/trcpp) kurucusudur. __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren __Necati Ergin__, 100’ün üstünde şirket ve kuruma eğitim vermiştir. 
 __Necati Ergin__'in eğitim verdiği kurumlar arasında 
 
 [Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), 
@@ -95,7 +95,6 @@ gibi kurumlar yer almaktadır.
 ✅ Eğitim dili Türkçe’dir. Programlama ve __C__ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.<br>
 
 
-
 ## Eğitim Materyalleri
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
@@ -106,4 +105,4 @@ Kurs ücreti __7.000__ **₺**'dir. Öğrenciler için (öğrencilik durumların
 &#128279;[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZIqcemhrDssGNDbC9cNIgIWCZzFKaYfALX5)  
 Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız. Ön kayıt yaptırmanızın bir bağlayıcılığı yoktur. Ancak sınırlı kontenjana sahip bu kursa kesin kayıt için ön kayıt sırası esas alınacaktır.
 
-## Kurs hakkında sorularınız için doğrudan &#128279;[__Necati Ergin__ ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)
+#### Kurs hakkında sorularınız için doğrudan &#128279;[__Necati Ergin__ ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz.](mailto:necatiergin2019@gmail.com)
