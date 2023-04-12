@@ -13,10 +13,10 @@
 &#9888;Kursa uygun olup olmadığınız konusunda şüpheleriniz varsa  &#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/) ile görüşebilirsiniz.
 
 ## Kurs Süresi
-Eğitimin toplam süresi __180__ saattir. 
+Eğitimin toplam süresi __200__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler __Cumartesi ve Pazar__ günleri  __14:00 – 18.00__ saatleri arasında __4'er saat__ olarak yapılacaktır.
+Dersler __Cumartesi ve Pazar__ günleri  __15:00 – 19.00__ saatleri arasında __4'er saat__ olarak yapılacaktır.
 
 ## Eğitim İçeriği
 &#128279;[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)
@@ -99,10 +99,10 @@ gibi kurumlar yer almaktadır.
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kurs ücreti __7.000__ **₺**'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __6.300__ **₺**'dir. Bireysel katılımcılar kurs ücretlerini 2 taksit olarak ödeyebilirler.
+Kurs ücreti __12.500__ **₺**'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __11.000__ **₺**'dir. Bireysel katılımcılar kurs ücretlerini 2 taksit olarak ödeyebilirler.
 
 ## Kursa Kayıt Olma
-&#128279;[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZYvdu-gpjssEtZzkKmIMEIkZwH7hhznGg_O)  
+&#128279;[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZIlf-morDsjE9KH47G8GNowpxvLYVMXcZBZ)  
 Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız. Ön kayıt yaptırmanızın bir bağlayıcılığı yoktur. Ancak sınırlı kontenjana sahip bu kursa kesin kayıt için ön kayıt sırası esas alınacaktır.
 
 #### Kurs hakkında sorularınız için doğrudan &#128279;[__Necati Ergin__ ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz.](mailto:necatiergin2019@gmail.com)
