@@ -8,6 +8,8 @@
 Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir. Bireysel katılımcılar kurs ücretini 2 taksit halinde ödeyebilir.<br><br>
 👨 Kurs eğitmeni **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.
 
+👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
+
 
 
 ## Kursla ilgili bağlantılar:
