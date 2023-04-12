@@ -22,7 +22,7 @@ Dersler __Cumartesi ve Pazar__ günleri  __15:00 – 19.00__ saatleri arasında 
 &#128279;[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)
 
 ## Eğitmen
-Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programcıları Derneği__’nde eğitmen olarak görev yapmaktadır. Necati Ergin [C++ Türkiye Topluluğunun](https://t.me/trcpp) kurucusudur. __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren __Necati Ergin__, 100’ün üstünde şirket ve kuruma eğitim vermiştir. 
+Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana C ve C++ Dillerinin eğitimini vermektedir. Necati Ergin [C++ Türkiye Topluluğunun](https://t.me/trcpp) kurucusudur. __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren __Necati Ergin__, 100’ün üstünde şirket ve kuruma eğitim vermiştir. 
 __Necati Ergin__'in eğitim verdiği kurumlar arasında 
 [Accenture](https://www.accenture.com/us-en),
 [Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), 
