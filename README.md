@@ -1,4 +1,4 @@
-## Eylül - 2022 Online C Programlama Dili Kursu
+## Haziran - 2023 Online C Programlama Dili Kursu
 
 🏫 Bu kurs _Plepa Eğitim Hizmetleri_ tarafından düzenlenmektedir.<br><br>
 📅 Kurs __24 Haziran 2023 Cumartesi__ günü başlayacaktır.<br><br>
