@@ -24,11 +24,13 @@ Dersler __Cumartesi ve Pazar__ günleri  __15:00 – 19.00__ saatleri arasında 
 ## Eğitmen
 Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programcıları Derneği__’nde eğitmen olarak görev yapmaktadır. Necati Ergin [C++ Türkiye Topluluğunun](https://t.me/trcpp) kurucusudur. __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren __Necati Ergin__, 100’ün üstünde şirket ve kuruma eğitim vermiştir. 
 __Necati Ergin__'in eğitim verdiği kurumlar arasında 
-
+[Accenture](https://www.accenture.com/us-en),
 [Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), 
 [Altınay Teknoloji](http://www.altinay.com/savunma-teknolojileri/),
 [Ankasis](http://www.ankasis.com/),
 [Arçelik](https://www.arcelik.com.tr/), 
+[Argesim](https://www.argesim.com.tr/),
+[Armelsan](https://www.armelsan.com/),
 [Aselsan](https://www.aselsan.com.tr/tr-tr/Sayfalar/default.aspx), 
 [Asis Elektronik](https://asiselektronik.com.tr/),
 [Audio Elektronik](https://www.audio.com.tr/), 
@@ -37,20 +39,28 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Beko](https://www.beko.com.tr/), 
 [Belbim A.Ş](https://www.ibb.istanbul/CorporateUnit/Detail/156), 
 [Bites](https://www.bites.com.tr/),
-[BMC](https://www.bmc.com.tr/)
+[BMC](https://www.bmc.com.tr/),
 [BSH](https://www.bsh-group.com/tr/), 
+[Bull Technologies](https://www.linkedin.com/company/bull-technologies/),
 [Cardtek](https://www.paycore.com/), 
 [Crytek](https://www.crytek.com/), 
+[Ctech](https://ctech.com.tr/tr),
+[Daiichi](https://www.daiichi.com/tr/ana-sayfa/),
 [E-data Teknoloji](https://e-data.com.tr/),
+[EEC Electronics](https://eecelectronics.com.tr/),
+[Ellamp Otomotiv](https://www.ellamp.it/en/),
 [Entes Elektronik](http://entes.com/tr/), 
 [Erdemir](https://www.erdemir.com.tr/), 
 [Garanti BBVA](https://www.garantibbva.com.tr/tr), 
+[Fev Group](https://www.fev.com/en/turkiye.html),
 [Ford-Otosan](https://www.fordotosan.com.tr/tr),
 [Fotoniks](https://www.fotoniks.com.tr/),
+[Gesteknik](http://gesteknik.com/),
 [Gesk Technologies](https://gesk.com.tr/),
 [Havelsan](https://www.havelsan.com.tr/), 
 [Huawei](https://www.huawei.com/tr/), 
 [Hugin](http://hugin.com.tr/tr/home), 
+[ICterra](https://www.icterra.com/tr/),
 [Ingame Group](https://www.ingamegroup.com/),
 [İsbak A.Ş.](https://www.ibb.istanbul/CorporateUnit/Detail/164), 
 [İsdemir](https://www.isdemir.com.tr/), 
@@ -64,6 +74,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Netaş](http://www.netas.com.tr/ana-sayfa/), 
 [Nettsi Teknoloji](https://www.nettsi.com/),
 [Otokar](https://www.otokar.com.tr/),
+[Pacemtech](https://www.pacemtech.com/),
 [Pavotek](https://pavotek.com.tr/), 
 [Profilo](https://www.profilo.com/), 
 [Roketsan](http://www.roketsan.com.tr/), 
@@ -76,13 +87,13 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Techne Logos](https://www.tekhnelogos.com/),
 [THY Teknik](https://turkishtechnic.com/Home/TR), 
 [Tosyalı-Toyo](https://www.tosyaliholding.com.tr/),
+[Tradeware Teknoloji A.Ş.](https://www.tradewaretech.com/who-we-are/),
 [Triodor Software](http://triodorarge.com/), 
 [Tusaş](https://www.tusas.com/),
 [Turkcell](https://www.turkcell.com.tr/), 
 [Tübitak](https://www.tubitak.gov.tr/), 
 [Türkiye İs Bankası](https://www.isbank.com.tr), 
-[Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/index.php/tr/)
-gibi kurumlar yer almaktadır.
+[Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/index.php/tr/) gibi kurumlar yer almaktadır.
 
 ## Format
 ✅ __C Kursu__ online olarak gerçek zamanlı verilmektedir. <br>
