@@ -1,7 +1,7 @@
-## Haziran - 2023 Online C Programlama Dili Kursu
+## Temmuz - 2023 Online C Programlama Dili Kursu
 
 🏫 Bu kurs _Plepa Eğitim Hizmetleri_ tarafından düzenlenmektedir.<br><br>
-📅 Kurs __24 Haziran 2023 Cumartesi__ günü başlayacaktır.<br><br>
+📅 Kurs __15 Temmuz 2023 Cumartesi__ günü başlayacaktır.<br><br>
 ⏰ Dersler __Cumartesi ve Pazar__ günleri __15.00 - 19.00__ saatleri arasında yapılacaktır.<br><br>
 ⌛ Kursun toplam süresi __200__ saattir.<br><br>
 💰️ Programın toplam ücreti **12.500** &#8378;'dir. Öğrenci olanlar için kurs ücreti **11.000** &#8378;'dir. 
